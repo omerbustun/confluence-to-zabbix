@@ -2,7 +2,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/omerbustun/confluence-to-zabbix?logo=Github)
 ![GitHub Repo stars](https://img.shields.io/github/stars/omerbustun/confluence-to-zabbix?style=social)
 # confluence-to-zabbix
-Tool for parsing and piping e-mail alerts to Zabbix.
+Tool for scraping Confluence pages and updating Zabbix items.
 
 ## Usage
 
